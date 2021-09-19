@@ -53,5 +53,5 @@ let q5 = new Question(
 questionBank.push(q1);
 questionBank.push(q2);
 questionBank.push(q3);
-questionBank.push(q5);
 questionBank.push(q4);
+questionBank.push(q5);
